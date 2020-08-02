@@ -71,7 +71,7 @@ function App() {
       </div>
       <div className="div-Titulo-Postagens">Últimas do blog</div>
       <MainDivListaUltimasPostagens />
-      <div className="div-MenuInferior"><a href="#">Ver tudo</a></div>
+      <div className="div-MenuInferior"><a href="#" class="botao--verde">Ver todos</a></div>
   </div>
   );
 }
